@@ -86,4 +86,4 @@ hist(iris$Sepal.Length)
 # Problem 4: Draw a scatter plot 
 # Problem 4: Draw a scatter plot 
 # Problem 4: Draw a scatter plot 
-12
+plot(1:100,51:150)
